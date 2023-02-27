@@ -1,0 +1,3130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-02-12T08:51:38Z"/>
+
+  <node id="89140184" lat="41.3751737" lon="2.1675099">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="312682274" lat="41.3669126" lon="2.1584826">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="312682293" lat="41.3671176" lon="2.1452728">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="312682294" lat="41.3671138" lon="2.1444009">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="312682355" lat="41.3764325" lon="2.1534480">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="430607924" lat="41.3851599" lon="2.1701722">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="name" v="Font de Canaletes"/>
+    <tag k="name:ca" v="Font de Canaletes"/>
+    <tag k="name:ru" v="Фонтан Font de Canaletes"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="wikidata" v="Q2723971"/>
+    <tag k="wikipedia" v="en:Font de Canaletes"/>
+  </node>
+  <node id="535635461" lat="41.3924410" lon="2.1785580">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="582895648" lat="41.4167479" lon="2.1265633">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="ref" v="05-052"/>
+  </node>
+  <node id="673078118" lat="41.3888697" lon="2.1675389">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-05-07"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="691562321" lat="41.3838470" lon="2.1696311">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-07-11"/>
+  </node>
+  <node id="794425075" lat="41.3964191" lon="2.1872583">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="877668205" lat="41.3901811" lon="2.1142850">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-03-05"/>
+  </node>
+  <node id="877668209" lat="41.3873811" lon="2.1231772">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="907524767" lat="41.4049092" lon="2.1572061">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="survey:date" v="2022-01-21"/>
+  </node>
+  <node id="907524814" lat="41.4076525" lon="2.1496436">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-01-11"/>
+  </node>
+  <node id="907524815" lat="41.4070861" lon="2.1494675">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-22"/>
+  </node>
+  <node id="966339776" lat="41.3680050" lon="2.1301999">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-08-17"/>
+  </node>
+  <node id="966339789" lat="41.3653598" lon="2.1297401">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="966339790" lat="41.3650442" lon="2.1274466">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+  </node>
+  <node id="966339796" lat="41.3602843" lon="2.1238643">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="966339798" lat="41.3598073" lon="2.1241574">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="966339800" lat="41.3626124" lon="2.1299253">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="978060421" lat="41.3643468" lon="2.1230783">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1002753681" lat="41.4064389" lon="2.1498969">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1011403450" lat="41.4117526" lon="2.1452009">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1011403497" lat="41.4118113" lon="2.1469904">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-11-18"/>
+  </node>
+  <node id="1011403534" lat="41.4133087" lon="2.1416222">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1011403663" lat="41.4117719" lon="2.1443508">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1050141049" lat="41.4037342" lon="2.1608705">
+    <tag k="addr:city" v="Barcelona"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Carrer de Montmany"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-20"/>
+  </node>
+  <node id="1094585840" lat="41.4169249" lon="2.1214452">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="ref" v="05-046"/>
+  </node>
+  <node id="1094585868" lat="41.4135104" lon="2.1187948">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="ref" v="05-045"/>
+  </node>
+  <node id="1225051298" lat="41.4108560" lon="2.1313880">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1305698368" lat="41.3706837" lon="2.1310680">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1349448269" lat="41.3766689" lon="2.1671946">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1349448296" lat="41.3768002" lon="2.1650535">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1349449188" lat="41.3776922" lon="2.1633220">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2023-01-07"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="1357211194" lat="41.4045845" lon="2.1588547">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1357211207" lat="41.4035063" lon="2.1520078">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-26"/>
+  </node>
+  <node id="1357211250" lat="41.4036036" lon="2.1521601">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-22"/>
+  </node>
+  <node id="1377225827" lat="41.4025012" lon="2.1597535">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-08-21"/>
+  </node>
+  <node id="1445371237" lat="41.4011945" lon="2.1608787">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-09-02"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:date" v="20110923"/>
+  </node>
+  <node id="1457528118" lat="41.3689245" lon="2.1484217">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1457528119" lat="41.3689793" lon="2.1492985">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1457528121" lat="41.3691791" lon="2.1501488">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1479115393" lat="41.3877832" lon="2.1171213">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="architect" v="Antoni Gaudi"/>
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Font d'Hèrcules"/>
+    <tag k="name:ca" v="Font d'Hèrcules"/>
+    <tag k="start_date" v="1884"/>
+    <tag k="wikidata" v="Q18115979"/>
+    <tag k="wikipedia" v="ca:Font d'Hèrcules (Gaudí)"/>
+  </node>
+  <node id="1483279484" lat="41.4075562" lon="2.1582214">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-01-04"/>
+  </node>
+  <node id="1483916072" lat="41.3889981" lon="2.1205037">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1490671358" lat="41.4091714" lon="2.1434986">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1490671401" lat="41.4088978" lon="2.1429515">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1490682043" lat="41.4090326" lon="2.1426725">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1490682144" lat="41.4082317" lon="2.1421904">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1597906317" lat="41.3821688" lon="2.1880360">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1597906320" lat="41.3814946" lon="2.1876953">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1705635723" lat="41.3765883" lon="2.1315040">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-08"/>
+  </node>
+  <node id="1767358312" lat="41.4102669" lon="2.1974471">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1767358318" lat="41.4081989" lon="2.2020659">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1795148488" lat="41.3876144" lon="2.1899416">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1806585834" lat="41.3889668" lon="2.1889420">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1860476049" lat="41.4031948" lon="2.1732405">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2023-02-04"/>
+    <tag k="fountain" v="drinking"/>
+  </node>
+  <node id="1860476057" lat="41.4045006" lon="2.1759900">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1863376019" lat="41.4075473" lon="2.1712937">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1880427509" lat="41.3986477" lon="2.1242193">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="1912571847" lat="41.3709837" lon="2.1706624">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-22"/>
+  </node>
+  <node id="2086329643" lat="41.3915736" lon="2.1916251">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2149784282" lat="41.3971916" lon="2.1814517">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2262682197" lat="41.3953538" lon="2.2019184">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-21"/>
+  </node>
+  <node id="2339244270" lat="41.3958562" lon="2.1252750">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-11-07"/>
+  </node>
+  <node id="2348235944" lat="41.3553290" lon="2.1529650">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2348235953" lat="41.3554139" lon="2.1545141">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2348235979" lat="41.3555285" lon="2.1552181">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2348235991" lat="41.3556560" lon="2.1554972">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2348235995" lat="41.3557028" lon="2.1551312">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2348235999" lat="41.3558922" lon="2.1550061">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2351682195" lat="41.3818100" lon="2.1294440">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="source" v="wetap.org"/>
+    <tag k="wetap:status" v="working"/>
+  </node>
+  <node id="2351682198" lat="41.3819850" lon="2.1300160">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="source" v="wetap.org"/>
+    <tag k="wetap:status" v="working"/>
+  </node>
+  <node id="2351682199" lat="41.3850673" lon="2.1344343">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="source" v="wetap.org"/>
+    <tag k="wetap:status" v="working"/>
+  </node>
+  <node id="2351682202" lat="41.3849870" lon="2.1357190">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="source" v="wetap.org"/>
+    <tag k="wetap:status" v="working"/>
+  </node>
+  <node id="2408257620" lat="41.4064442" lon="2.1336541">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2434363989" lat="41.3697665" lon="2.1722787">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2434370651" lat="41.3628537" lon="2.1657188">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2438033094" lat="41.3836621" lon="2.1831793">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2439284955" lat="41.3784242" lon="2.1786894">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2440200926" lat="41.3767440" lon="2.1737050">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2443291343" lat="41.3813491" lon="2.1813601">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-03-11"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="2460915682" lat="41.3816609" lon="2.1786920">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-12-26"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="2460939126" lat="41.3718501" lon="2.1695224">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2486095565" lat="41.3877791" lon="2.1870124">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2023-01-05"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="2486315786" lat="41.3866239" lon="2.1185448">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2486318401" lat="41.3869777" lon="2.1124042">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2491103574" lat="41.3916870" lon="2.1229277">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-02"/>
+  </node>
+  <node id="2491103575" lat="41.3929044" lon="2.1236707">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2491103576" lat="41.3904084" lon="2.1206585">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2491103577" lat="41.3921679" lon="2.1238155">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-02"/>
+  </node>
+  <node id="2493101521" lat="41.4111542" lon="2.1439423">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2498788243" lat="41.3774003" lon="2.1489220">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2500001149" lat="41.3900376" lon="2.1872064">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-20"/>
+  </node>
+  <node id="2509819987" lat="41.3675027" lon="2.1636631">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2509820240" lat="41.3679132" lon="2.1644023">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2513889988" lat="41.3927629" lon="2.1223082">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-02"/>
+  </node>
+  <node id="2515061647" lat="41.3775397" lon="2.1164394">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2519684216" lat="41.3674398" lon="2.1234649">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="2521865351" lat="41.3745175" lon="2.1196512">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2522141796" lat="41.3780291" lon="2.1185547">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2530379530" lat="41.3844438" lon="2.1238034">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2540150077" lat="41.4006616" lon="2.1189398">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2560079100" lat="41.3805466" lon="2.1407895">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2560389415" lat="41.3670699" lon="2.1525263">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2565663265" lat="41.3847682" lon="2.1762935">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="check_date" v="2021-09-13"/>
+    <tag k="fountain" v="drinking"/>
+    <tag k="image" v="https://i.imgur.com/TYKLT6C.jpg"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2573544620" lat="41.4141622" lon="2.1548221">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2598482846" lat="41.3879185" lon="2.1805863">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-13"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="2598482953" lat="41.3772584" lon="2.1879587">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-10-28"/>
+  </node>
+  <node id="2610605651" lat="41.3982214" lon="2.1246386">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-11-07"/>
+  </node>
+  <node id="2624465003" lat="41.3967909" lon="2.1209191">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2624465007" lat="41.3968178" lon="2.1199558">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2627845565" lat="41.4156303" lon="2.1878998">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2627845569" lat="41.4175876" lon="2.1863380">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-07"/>
+  </node>
+  <node id="2627845574" lat="41.4178436" lon="2.1860218">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2629638146" lat="41.3644774" lon="2.1433544">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2636736660" lat="41.3979449" lon="2.1130441">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2636927530" lat="41.3976690" lon="2.1124008">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2671630209" lat="41.4031250" lon="2.1148381">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2682207960" lat="41.4039579" lon="2.1173277">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2682341322" lat="41.3997953" lon="2.1216694">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2682341323" lat="41.4031645" lon="2.1228181">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2682532987" lat="41.4013547" lon="2.1668637">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artist_name" v="Josep Tenas"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="check_date" v="2022-06-28"/>
+    <tag k="image" v="https://i.imgur.com/Mz7VGSn.jpg"/>
+    <tag k="name" v="Font de la Caputxeta"/>
+    <tag k="name:ca" v="Font de la Caputxeta"/>
+    <tag k="source" v="http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&amp;codiMonumIntern=412"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="2683365364" lat="41.3828971" lon="2.1784807">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Font de Sant Just"/>
+    <tag k="name:ca" v="Font de Sant Just"/>
+    <tag k="wikidata" v="Q11922366"/>
+    <tag k="wikipedia" v="ca:Font de Sant Just"/>
+  </node>
+  <node id="2694671127" lat="41.3983856" lon="2.1214883">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2694842106" lat="41.4107658" lon="2.1356998">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2742735084" lat="41.4016135" lon="2.1199919">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2775765415" lat="41.4116829" lon="2.1944617">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2775765422" lat="41.4116441" lon="2.1950517">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="note" v="font"/>
+  </node>
+  <node id="2781788386" lat="41.4021625" lon="2.1970642">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2784254520" lat="41.3805160" lon="2.1514339">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP2784254520.jpg"/>
+    <tag k="name" v="Font del Cercle d'Or"/>
+    <tag k="name:ca" v="Font del Cercle d'Or"/>
+    <tag k="start_date" v="1991"/>
+  </node>
+  <node id="2817328815" lat="41.3998682" lon="2.1200854">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2825828481" lat="41.3594844" lon="2.1410942">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2825831391" lat="41.3604947" lon="2.1397558">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2825834387" lat="41.3596865" lon="2.1418085">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-01-21"/>
+  </node>
+  <node id="2860633265" lat="41.3712746" lon="2.1511613">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2945833376" lat="41.4113492" lon="2.1677899">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2964058469" lat="41.3897406" lon="2.1570732">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+  </node>
+  <node id="2975915053" lat="41.4005365" lon="2.1973069">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2996266858" lat="41.3956453" lon="2.1141430">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="2996270912" lat="41.3952241" lon="2.1155719">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3005325656" lat="41.4150966" lon="2.1967617">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3005466551" lat="41.4158988" lon="2.1598501">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-28"/>
+  </node>
+  <node id="3005856818" lat="41.4055449" lon="2.1625210">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://i.imgur.com/REhE4Eh.jpg"/>
+  </node>
+  <node id="3006383875" lat="41.4144149" lon="2.1630220">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3006513212" lat="41.4070788" lon="2.1555158">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3006519987" lat="41.4078161" lon="2.1539574">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3007465891" lat="41.4133707" lon="2.1544608">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3008990618" lat="41.3854526" lon="2.1331234">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3009167637" lat="41.3896542" lon="2.2005315">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3009246866" lat="41.4122560" lon="2.1885127">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3009252891" lat="41.4075642" lon="2.1897224">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3010463498" lat="41.4166027" lon="2.1806849">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3027824134" lat="41.4089735" lon="2.1934132">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-07"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3027824533" lat="41.4092246" lon="2.1939804">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-07"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3027824633" lat="41.4102200" lon="2.1953043">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-08-22"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3029829933" lat="41.3971863" lon="2.1905484">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3032894936" lat="41.4134626" lon="2.1971320">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/xm5YWjC.jpg"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3040074333" lat="41.4174757" lon="2.1938233">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3040074433" lat="41.4177606" lon="2.1945376">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-05-25"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3042724833" lat="41.4031800" lon="2.1888020">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3044251442" lat="41.4166259" lon="2.2021025">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3046154937" lat="41.4119887" lon="2.2006239">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-08-20"/>
+    <tag k="indoor" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3046155133" lat="41.4073355" lon="2.1941987">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/ugmMavc.jpg"/>
+    <tag k="indoor" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3046156738" lat="41.4140319" lon="2.2003939">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3048076837" lat="41.4039869" lon="2.2016892">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3049368343" lat="41.4077541" lon="2.1890062">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3049372239" lat="41.4088319" lon="2.1897951">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-24"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3049395237" lat="41.4097932" lon="2.1903660">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-07"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3049395453" lat="41.4142494" lon="2.1913680">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3050973450" lat="41.3907508" lon="2.2016917">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3056861384" lat="41.3989285" lon="2.1974400">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-11-07"/>
+  </node>
+  <node id="3056861385" lat="41.3969227" lon="2.1930112">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3058163665" lat="41.4007289" lon="2.2015169">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3058163667" lat="41.3915539" lon="2.1926442">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3058163668" lat="41.3913985" lon="2.1870575">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-08-15"/>
+  </node>
+  <node id="3068367481" lat="41.4021533" lon="2.2014842">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-21"/>
+  </node>
+  <node id="3068367484" lat="41.4097150" lon="2.1877966">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3072185838" lat="41.3984608" lon="2.1468243">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3074770052" lat="41.3810432" lon="2.1620545">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3074775711" lat="41.3816338" lon="2.1637202">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3074775712" lat="41.3926874" lon="2.1813097">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-04-22"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3077991509" lat="41.3893650" lon="2.1130274">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-09-28"/>
+  </node>
+  <node id="3096906059" lat="41.3794742" lon="2.1659617">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="memorial" v="statue;obelisk"/>
+    <tag k="name" v="Font de Santa Eulàlia"/>
+    <tag k="name:ca" v="Font de Santa Eulàlia"/>
+    <tag k="start_date" v="1673"/>
+    <tag k="wikidata" v="Q16013785"/>
+    <tag k="wikipedia" v="ca:Font de Santa Eulàlia"/>
+  </node>
+  <node id="3100678763" lat="41.4033193" lon="2.1459379">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3105288529" lat="41.4009310" lon="2.1947983">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3106268455" lat="41.3898470" lon="2.1685652">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-09-11"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3109086256" lat="41.4004843" lon="2.1623136">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3114962597" lat="41.3910768" lon="2.1364081">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3115724966" lat="41.3940050" lon="2.1563106">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Fuente de agua potable"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3115728745" lat="41.3956295" lon="2.1588421">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Fuente de agua potable"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3116187206" lat="41.3968590" lon="2.1619014">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-08-20"/>
+    <tag k="description" v="Font d'aigua potable"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3116195070" lat="41.3985622" lon="2.1686384">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artist_name" v="Àngel Tarrach"/>
+    <tag k="artwork_type" v="statue"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/df14Ob1.jpg"/>
+    <tag k="image:0" v="https://i.imgur.com/4Sq4ZQd.jpg"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Font de l'Efeb"/>
+    <tag k="name:ca" v="Font de l'Efeb"/>
+    <tag k="source" v="http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&amp;codiMonumIntern=405"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="3116199233" lat="41.3977147" lon="2.1652512">
+    <tag k="access" v="yes"/>
+    <tag k="alt_name" v="Font del Negret"/>
+    <tag k="alt_name:ca" v="Font del Negret"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artist_name" v="Eduard B. Alentorn"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="image" v="https://i.imgur.com/imOLQSL.jpg"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Font de la Palangana"/>
+    <tag k="name:ca" v="Font de la Palangana"/>
+    <tag k="operator" v="Font de la Palangana"/>
+    <tag k="source" v="http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&amp;codiMonumIntern=410"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3116203551" lat="41.4027608" lon="2.1834588">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Fuente agua potable"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3116783920" lat="41.4114659" lon="2.1444327">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3130840521" lat="41.4039590" lon="2.1991786">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="check_date" v="2022-05-20"/>
+    <tag k="description" v="Fuente agua potable"/>
+    <tag k="image" v="https://i.imgur.com/arUFdGa.jpg"/>
+  </node>
+  <node id="3131066429" lat="41.3983319" lon="2.1938457">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3144669431" lat="41.4155681" lon="2.1912610">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3152881148" lat="41.4172135" lon="2.1650899">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3157086763" lat="41.3962148" lon="2.1434435">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3157261217" lat="41.3940006" lon="2.1765161">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-11"/>
+  </node>
+  <node id="3157269721" lat="41.3996728" lon="2.1691260">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-12"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3157269801" lat="41.4005085" lon="2.1680760">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-12"/>
+  </node>
+  <node id="3161454923" lat="41.3771687" lon="2.1766219">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-09-13"/>
+  </node>
+  <node id="3165823062" lat="41.4098013" lon="2.1836881">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="highway" v="street_lamp"/>
+    <tag k="image" v="https://i.imgur.com/LaCTGMV.jpg"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3165823162" lat="41.4089632" lon="2.1852251">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/hoIW9ly.jpg"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Font de l'ànec"/>
+    <tag k="name:ca" v="Font de l'ànec"/>
+  </node>
+  <node id="3165823163" lat="41.4093211" lon="2.1843608">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3165823164" lat="41.4105334" lon="2.1826999">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3165823363" lat="41.4114528" lon="2.1861780">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3193826562" lat="41.3821805" lon="2.1798421">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3196554223" lat="41.3853956" lon="2.1146097">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3204544466" lat="41.3993878" lon="2.1720894">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="Font rèplica del model Wallace"/>
+    <tag k="name" v="Homenatge a Marcel·lí Champagnat"/>
+    <tag k="source" v="http://w10.bcn.es/APPS/gmocataleg_monum/FitxaMonumentAc.do?idioma=CA&amp;codiMonumIntern=422"/>
+  </node>
+  <node id="3268666324" lat="41.4140658" lon="2.1520261">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-11-01"/>
+    <tag k="fountain" v="drinking"/>
+  </node>
+  <node id="3287733363" lat="41.3845123" lon="2.1140578">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-02"/>
+  </node>
+  <node id="3288658763" lat="41.3844788" lon="2.1774965">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3302698063" lat="41.3758012" lon="2.1354541">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="memorial" v="statue"/>
+    <tag k="name" v="Font del Vell"/>
+    <tag k="name:ca" v="Font del Vell"/>
+    <tag k="reg_name" v="Font del Xato"/>
+    <tag k="wikidata" v="Q18145791"/>
+    <tag k="wikipedia" v="ca:Font del Vell"/>
+  </node>
+  <node id="3340414742" lat="41.3741371" lon="2.1594246">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3350102455" lat="41.4025205" lon="2.1583830">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-09-20"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3361982894" lat="41.4070298" lon="2.1802587">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3388968521" lat="41.3852041" lon="2.1299371">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3388968522" lat="41.3835861" lon="2.1304924">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3418340496" lat="41.4008466" lon="2.1471154">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-05"/>
+    <tag k="indoor" v="no"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="3420301894" lat="41.3881659" lon="2.1501348">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-12-28"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3430441336" lat="41.3958203" lon="2.1837323">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3434283795" lat="41.3980946" lon="2.1482233">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/evxvlNv.jpg"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3521917426" lat="41.4081544" lon="2.1283658">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3529190631" lat="41.3860677" lon="2.1652552">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="3601248002" lat="41.4045582" lon="2.1651551">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3601248003" lat="41.4105596" lon="2.1733445">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3601249495" lat="41.4002554" lon="2.1561907">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="start_date" v="1845"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3601250197" lat="41.4028786" lon="2.1628456">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-08-04"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3614234042" lat="41.3756586" lon="2.1531980">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3614234043" lat="41.3758050" lon="2.1538543">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3614234044" lat="41.3760558" lon="2.1548801">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3614234045" lat="41.3765982" lon="2.1565493">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3614234046" lat="41.3767735" lon="2.1570224">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3614234047" lat="41.3770802" lon="2.1581026">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-08-08"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3616716535" lat="41.3975457" lon="2.1745480">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-12-17"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3616716536" lat="41.3984303" lon="2.1706676">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3616716537" lat="41.4030126" lon="2.1733381">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="drinking"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3621660963" lat="41.3737092" lon="2.1287103">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3640912439" lat="41.3617009" lon="2.1124911">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3647820433" lat="41.3883082" lon="2.1390392">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3655151800" lat="41.3701975" lon="2.1566883">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3658117050" lat="41.3927883" lon="2.1953933">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-08-17"/>
+  </node>
+  <node id="3668720551" lat="41.3801314" lon="2.1340841">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3669621942" lat="41.3789270" lon="2.1198366">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3673723905" lat="41.3882408" lon="2.1261029">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3675218247" lat="41.3820992" lon="2.1357801">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3679281743" lat="41.3916092" lon="2.1256721">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-11-25"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3679292814" lat="41.3916054" lon="2.1293371">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3679294927" lat="41.3906021" lon="2.1287780">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3680058764" lat="41.3859739" lon="2.1241268">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3680995221" lat="41.4019285" lon="2.1248817">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3682720148" lat="41.3811684" lon="2.1369491">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2021-12-11"/>
+  </node>
+  <node id="3702768512" lat="41.4122278" lon="2.1652103">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-27"/>
+    <tag k="fountain" v="drinking"/>
+  </node>
+  <node id="3702768870" lat="41.4132810" lon="2.1503232">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3702777060" lat="41.4174577" lon="2.1463892">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3706844267" lat="41.3785858" lon="2.1329350">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3725423438" lat="41.3984194" lon="2.1556330">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-05-19"/>
+  </node>
+  <node id="3731611591" lat="41.4139415" lon="2.1375534">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3748104495" lat="41.3827782" lon="2.1414781">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749345162" lat="41.3817055" lon="2.1358599">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749345163" lat="41.3802565" lon="2.1364660">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749382462" lat="41.3750446" lon="2.1727581">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749383543" lat="41.3751511" lon="2.1702677">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749383563" lat="41.3753744" lon="2.1769699">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3749423858" lat="41.3778730" lon="2.1834776">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3749429832" lat="41.3764851" lon="2.1889270">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="check_date" v="2021-10-28"/>
+    <tag k="image" v="https://i.imgur.com/p3RgrsB.jpg"/>
+  </node>
+  <node id="3749434937" lat="41.3951227" lon="2.1620842">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-12-15"/>
+    <tag k="fountain" v="bubbler"/>
+  </node>
+  <node id="3749438193" lat="41.4047218" lon="2.1744711">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3749439928" lat="41.4103716" lon="2.1665793">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3749497503" lat="41.3754654" lon="2.1272371">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-09"/>
+  </node>
+  <node id="3752752912" lat="41.3599125" lon="2.1281777">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3758961590" lat="41.4182339" lon="2.1742713">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3807558458" lat="41.4018729" lon="2.1527137">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-05"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="3854639709" lat="41.3945779" lon="2.1446497">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3884068397" lat="41.3834416" lon="2.1816436">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP3884068397.jpg"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3884074335" lat="41.3818317" lon="2.1771385">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="image" v="https://i.imgur.com/gSk6Hiz.jpg"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3933541438" lat="41.4019828" lon="2.1638145">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-08-02"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="3942315114" lat="41.3945691" lon="2.2005270">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="ref" v="0-089"/>
+  </node>
+  <node id="3959362791" lat="41.3967271" lon="2.2004848">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/UdbNkXU.jpg"/>
+  </node>
+  <node id="3964552794" lat="41.3954083" lon="2.1994482">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="3973023928" lat="41.3784679" lon="2.1166780">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4000392337" lat="41.4021545" lon="2.1275808">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4072115078" lat="41.3967608" lon="2.2023199">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-09-21"/>
+  </node>
+  <node id="4127797238" lat="41.3721269" lon="2.1718156">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-06-29"/>
+  </node>
+  <node id="4143428165" lat="41.3842170" lon="2.1778363">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4179259533" lat="41.3683509" lon="2.1654296">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4212119289" lat="41.3847567" lon="2.1827167">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4215643190" lat="41.3835270" lon="2.1672430">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4218567626" lat="41.3866538" lon="2.1800471">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4228966076" lat="41.3824668" lon="2.1940745">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4232398060" lat="41.3828475" lon="2.1840302">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-12-25"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4232414094" lat="41.3834979" lon="2.1853737">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP4232414094.jpg"/>
+  </node>
+  <node id="4234283410" lat="41.3713796" lon="2.1683192">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4234489090" lat="41.3768092" lon="2.1754216">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4234504790" lat="41.3727336" lon="2.1706792">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4262392789" lat="41.3707862" lon="2.1667998">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4267145077" lat="41.3663891" lon="2.1591064">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4267145078" lat="41.3663720" lon="2.1590567">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4270044967" lat="41.3835908" lon="2.1510520">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4270047912" lat="41.3821830" lon="2.1515070">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4276217088" lat="41.4091170" lon="2.1905916">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4284328689" lat="41.3838938" lon="2.1636199">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4297147089" lat="41.3784791" lon="2.1541929">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="name" v="Gran Via - Rocafort"/>
+  </node>
+  <node id="4317376260" lat="41.3600669" lon="2.1600115">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+  </node>
+  <node id="4317403041" lat="41.3622089" lon="2.1509173">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4317403042" lat="41.3635729" lon="2.1500697">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4317414967" lat="41.3685151" lon="2.1606439">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4318423289" lat="41.4017828" lon="2.1405564">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4318423489" lat="41.3999368" lon="2.1432925">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4318460063" lat="41.3875232" lon="2.1841459">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4318504183" lat="41.3875592" lon="2.1886390">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4320220655" lat="41.3805461" lon="2.1662623">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4321181001" lat="41.4093831" lon="2.1420209">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4322871200" lat="41.4146113" lon="2.1527746">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4333618132" lat="41.3839387" lon="2.1696703">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/xluanuV.jpg"/>
+  </node>
+  <node id="4333618723" lat="41.3835688" lon="2.1713845">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4333654586" lat="41.3805863" lon="2.1537568">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP4333654586.jpg"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4333655630" lat="41.3760441" lon="2.1574192">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4356565090" lat="41.4148272" lon="2.1856746">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4360070210" lat="41.4044800" lon="2.1537972">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4361491390" lat="41.3921192" lon="2.1857214">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4362045622" lat="41.3797909" lon="2.1927978">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4362047124" lat="41.3841968" lon="2.1954952">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4362047125" lat="41.3825059" lon="2.1944929">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4369845191" lat="41.3693764" lon="2.1326947">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4369845507" lat="41.3679878" lon="2.1334551">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4370090295" lat="41.3859644" lon="2.1644328">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-12-30"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4371643981" lat="41.3824052" lon="2.1551069">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4379761790" lat="41.3921803" lon="2.1899297">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4380615990" lat="41.3717999" lon="2.1321426">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4380809789" lat="41.3731473" lon="2.1335947">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4380809989" lat="41.3742543" lon="2.1342876">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2022-10-02"/>
+  </node>
+  <node id="4382677789" lat="41.3703359" lon="2.1334778">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4382677989" lat="41.3703206" lon="2.1334805">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4384365396" lat="41.3667650" lon="2.1369183">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4396030137" lat="41.3691479" lon="2.1517003">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4396049589" lat="41.3902387" lon="2.1995399">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://i.imgur.com/3HLWJH9.jpg"/>
+  </node>
+  <node id="4396231091" lat="41.3927966" lon="2.1983895">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4396604867" lat="41.3688561" lon="2.1686229">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4396616310" lat="41.3680091" lon="2.1659677">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4400862483" lat="41.3692132" lon="2.1682858">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4400862484" lat="41.3706467" lon="2.1720544">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4401863490" lat="41.3925741" lon="2.1890296">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4403277329" lat="41.3659940" lon="2.1549259">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4425653093" lat="41.4111113" lon="2.1791508">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4450414702" lat="41.3672652" lon="2.1553618">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4450414709" lat="41.3677181" lon="2.1565554">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4458451649" lat="41.3662624" lon="2.1670658">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4475325477" lat="41.4123409" lon="2.1411474">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4475428023" lat="41.4082613" lon="2.1313511">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4510147390" lat="41.4179503" lon="2.2013224">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4523228418" lat="41.3978178" lon="2.1575809">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4551543974" lat="41.3814010" lon="2.1461112">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4560843785" lat="41.4138891" lon="2.1521416">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4579766067" lat="41.4162899" lon="2.1527199">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4585526598" lat="41.3689704" lon="2.1584572">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4592324157" lat="41.3688147" lon="2.1645034">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4592365380" lat="41.3623015" lon="2.1631621">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4614012073" lat="41.4182981" lon="2.1665259">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4645003643" lat="41.3659029" lon="2.1669115">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4645951696" lat="41.3669809" lon="2.1536362">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4654612007" lat="41.4046474" lon="2.1751461">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2023-02-04"/>
+    <tag k="fountain" v="drinking"/>
+  </node>
+  <node id="4659929790" lat="41.3950382" lon="2.1857079">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4670159098" lat="41.4012085" lon="2.1585000">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4684141168" lat="41.3718683" lon="2.1671405">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4712592608" lat="41.3684534" lon="2.1438775">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4712592622" lat="41.3682310" lon="2.1605324">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4715046193" lat="41.3797222" lon="2.1870384">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4719115891" lat="41.4024552" lon="2.1812869">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4719259889" lat="41.4062719" lon="2.1855978">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4727919789" lat="41.3852779" lon="2.1420025">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4727974995" lat="41.4034918" lon="2.1824785">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4728122289" lat="41.4104510" lon="2.1796925">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4729342992" lat="41.4179139" lon="2.1760549">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4729495592" lat="41.3754052" lon="2.1607623">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4736526630" lat="41.3928437" lon="2.1828202">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4737938831" lat="41.3783791" lon="2.1898660">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4739924251" lat="41.4032093" lon="2.1886617">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4751356746" lat="41.3867081" lon="2.1321070">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4756963839" lat="41.4036066" lon="2.1304518">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4767532121" lat="41.3912466" lon="2.1734441">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4771774428" lat="41.4015996" lon="2.1563834">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4773214327" lat="41.3879289" lon="2.1805961">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="name" v="Font Modernista"/>
+    <tag k="name:ca" v="Font Modernista"/>
+  </node>
+  <node id="4774100730" lat="41.4001890" lon="2.1775516">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4775071297" lat="41.3898866" lon="2.1828806">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP4775071297.jpg"/>
+  </node>
+  <node id="4777153921" lat="41.3890032" lon="2.1867837">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP4777153921.jpg"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4777170521" lat="41.3943231" lon="2.1845654">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4783719423" lat="41.3893912" lon="2.1678743">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4784228555" lat="41.3972668" lon="2.1721178">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4784228952" lat="41.3862030" lon="2.1721274">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/fZ9HDq4.jpg"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4788596722" lat="41.3896101" lon="2.1812789">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4788623621" lat="41.3868181" lon="2.1818603">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4789136747" lat="41.4177271" lon="2.1584731">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4789137383" lat="41.4169726" lon="2.1588698">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4789823870" lat="41.3805832" lon="2.1707524">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4790256122" lat="41.3833389" lon="2.1872590">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4791132323" lat="41.3976235" lon="2.1785876">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4791946822" lat="41.3948948" lon="2.1913971">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4791960421" lat="41.3964298" lon="2.1915323">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4804203376" lat="41.3854219" lon="2.1745564">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4814904422" lat="41.3861069" lon="2.1652598">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4825443532" lat="41.3685562" lon="2.1498066">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4833342647" lat="41.3676996" lon="2.1479683">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4849846821" lat="41.3764672" lon="2.1830194">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4850110121" lat="41.3838480" lon="2.1951870">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4850200621" lat="41.3842374" lon="2.1688031">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4866333121" lat="41.3804359" lon="2.1830687">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4866407421" lat="41.3806009" lon="2.1920266">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4878360622" lat="41.3797593" lon="2.1881241">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/eZhSUOD.jpg"/>
+  </node>
+  <node id="4880020521" lat="41.3726121" lon="2.1793318">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4886263821" lat="41.3837322" lon="2.1611348">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4887090122" lat="41.4018801" lon="2.1842791">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4937455921" lat="41.4008160" lon="2.1745843">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4938154088" lat="41.4038515" lon="2.1482777">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4941889425" lat="41.4135266" lon="2.1713811">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="4941903621" lat="41.4150455" lon="2.1725781">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4955174021" lat="41.4125243" lon="2.1605327">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name:fr" v="Eau potable"/>
+  </node>
+  <node id="4955199921" lat="41.4077231" lon="2.1677813">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name:fr" v="Eau potable"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4955199924" lat="41.4052803" lon="2.1706927">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name:fr" v="Eau potable"/>
+  </node>
+  <node id="4957594523" lat="41.3574721" lon="2.1417991">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4960003622" lat="41.4018002" lon="2.1409622">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4960571921" lat="41.3767729" lon="2.1390191">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4976703822" lat="41.3992460" lon="2.1785803">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4985051028" lat="41.3791758" lon="2.1889333">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4986677123" lat="41.3820770" lon="2.1562970">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="4999449265" lat="41.4181579" lon="2.1566528">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5001908962" lat="41.3747736" lon="2.1671243">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+  </node>
+  <node id="5001917131" lat="41.3729398" lon="2.1566196">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5006857818" lat="41.4150310" lon="2.1658016">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5018172524" lat="41.3900991" lon="2.2007586">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5018221166" lat="41.4165526" lon="2.1989451">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5028911721" lat="41.3951808" lon="2.1685168">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5028919021" lat="41.3924790" lon="2.1718478">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5042064368" lat="41.3841107" lon="2.1710774">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5049014822" lat="41.4020276" lon="2.1599132">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5054228821" lat="41.3697677" lon="2.1372145">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5076868752" lat="41.3600702" lon="2.1575125">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5110775425" lat="41.3782557" lon="2.1488088">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5126294816" lat="41.3849707" lon="2.1526652">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5151565655" lat="41.3830411" lon="2.1718983">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artwork_type" v="azulejo"/>
+    <tag k="image" v="https://i.imgur.com/0RMIu08.jpg"/>
+    <tag k="name" v="Font de la Portaferrissa"/>
+    <tag k="name:ca" v="Font de la Portaferrissa"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="website" v="http://www.poblesdecatalunya.cat/element.php?e=1887"/>
+  </node>
+  <node id="5198014884" lat="41.3952130" lon="2.1756428">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/HwW9upc.jpg"/>
+  </node>
+  <node id="5221702722" lat="41.3853717" lon="2.1426609">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5221704323" lat="41.3880267" lon="2.1434147">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5221733823" lat="41.3905751" lon="2.1449212">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5221784522" lat="41.3971845" lon="2.1832840">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5235016524" lat="41.4089022" lon="2.1696020">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5269890285" lat="41.4095302" lon="2.1502866">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5286293323" lat="41.3933630" lon="2.1503652">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5286461226" lat="41.4033661" lon="2.1706509">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="operator" v="Font Pública"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5299213221" lat="41.3845538" lon="2.1741986">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5303267327" lat="41.4088008" lon="2.1732529">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5310680822" lat="41.3752607" lon="2.1463243">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5310680823" lat="41.3753336" lon="2.1416257">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5310695121" lat="41.3753993" lon="2.1380943">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5316296722" lat="41.3729020" lon="2.1162575">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5316296723" lat="41.3748787" lon="2.1177013">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5318105181" lat="41.3568397" lon="2.1243094">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5318105182" lat="41.3564453" lon="2.1259241">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5318105183" lat="41.3612938" lon="2.1223688">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5319281340" lat="41.3820352" lon="2.1494229">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5331242817" lat="41.3863670" lon="2.1132570">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5331242818" lat="41.3865199" lon="2.1138364">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5343184870" lat="41.4177437" lon="2.1697186">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5382496222" lat="41.4175471" lon="2.1787281">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5387442250" lat="41.4071877" lon="2.1757288">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5390655031" lat="41.4053323" lon="2.1780256">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5403244321" lat="41.4023876" lon="2.1726410">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5403266921" lat="41.4108881" lon="2.1702597">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5404661529" lat="41.3869937" lon="2.1695308">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5404664105" lat="41.3874137" lon="2.1701709">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="bubbler"/>
+  </node>
+  <node id="5405714009" lat="41.3773681" lon="2.1404346">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5406520693" lat="41.3730600" lon="2.1443108">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5406763271" lat="41.3728345" lon="2.1511013">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5406763272" lat="41.3731976" lon="2.1508551">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5406763273" lat="41.3739213" lon="2.1494047">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5420950722" lat="41.4087433" lon="2.1800451">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5469126826" lat="41.4063709" lon="2.1620916">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5474037984" lat="41.3723284" lon="2.1735752">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5474037985" lat="41.3686003" lon="2.1720733">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5474037986" lat="41.3659117" lon="2.1707764">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5484292322" lat="41.3973809" lon="2.1764694">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5485540650" lat="41.3988089" lon="2.1531218">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artist_name" v="Josep Manuel Benedicto"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="material" v="bronze"/>
+    <tag k="name" v="Font de Blancaneu"/>
+    <tag k="name:ca" v="Font de Blancaneu"/>
+    <tag k="start_date" v="1947"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5513291791" lat="41.3893815" lon="2.1859297">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+  </node>
+  <node id="5546040421" lat="41.4077846" lon="2.2017656">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5550471922" lat="41.4060094" lon="2.1829433">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5550666821" lat="41.4051549" lon="2.1982352">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/uLKoYwo.jpg"/>
+  </node>
+  <node id="5552069659" lat="41.3963786" lon="2.1801911">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5552089055" lat="41.3960757" lon="2.1744512">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5552143954" lat="41.4074199" lon="2.1660016">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5600372827" lat="41.4123806" lon="2.1594935">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5600400821" lat="41.4104228" lon="2.1584363">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5600424622" lat="41.4105497" lon="2.1756410">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5658501621" lat="41.3898852" lon="2.1881447">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5658715540" lat="41.3887963" lon="2.1878937">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5658715824" lat="41.3883522" lon="2.1897425">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5658941923" lat="41.3858392" lon="2.1892726">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5658954221" lat="41.3874153" lon="2.1907543">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5689895709" lat="41.3893094" lon="2.1604645">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="artwork_type" v="sculpture"/>
+    <tag k="fountain" v="drinking"/>
+    <tag k="image" v="https://i.imgur.com/GhDTIWZ.jpg"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5717135521" lat="41.4076207" lon="2.1834222">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5717969424" lat="41.4116171" lon="2.1815054">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5724228721" lat="41.3722989" lon="2.1623564">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5741748422" lat="41.3841199" lon="2.1585839">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP5741748422.jpg"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5766196554" lat="41.3746278" lon="2.1465861">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5792243585" lat="41.3947860" lon="2.1729813">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5854531385" lat="41.3794912" lon="2.1504169">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5854903285" lat="41.3794715" lon="2.1482812">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="description" v="Leve bordillo que podría dificultar el acceso a personas con sillas de ruedas."/>
+    <tag k="fee" v="no"/>
+    <tag k="image" v="https://europeanwaterproject.org/photos/2020/EWP5854903285.jpg"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5873814685" lat="41.3920854" lon="2.1743291">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5921183985" lat="41.4122991" lon="2.1539054">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5936853223" lat="41.3849651" lon="2.1573704">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="5958681586" lat="41.4120532" lon="2.1909094">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="5971679485" lat="41.3958765" lon="2.1951368">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6058314146" lat="41.4176688" lon="2.1342611">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6099087173" lat="41.3883073" lon="2.1133871">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6126216388" lat="41.4077246" lon="2.1503040">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6140191885" lat="41.4085244" lon="2.1711213">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6222663441" lat="41.3968992" lon="2.1250780">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6230239352" lat="41.3737541" lon="2.1617240">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6294406163" lat="41.3756516" lon="2.1404929">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6339323986" lat="41.3984138" lon="2.1626765">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6341171285" lat="41.3566756" lon="2.1258712">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6341171485" lat="41.3596459" lon="2.1332125">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6341171488" lat="41.3604745" lon="2.1412056">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6356110690" lat="41.4055006" lon="2.1354372">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6356178885" lat="41.4060180" lon="2.1490007">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6387292486" lat="41.4024197" lon="2.1401243">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6387301096" lat="41.4018485" lon="2.1413285">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6387470290" lat="41.4163393" lon="2.1757575">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6417402985" lat="41.3913936" lon="2.1346420">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6417414685" lat="41.3936430" lon="2.1380066">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6417496398" lat="41.3944833" lon="2.1414488">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6417496499" lat="41.3942882" lon="2.1406744">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6417496585" lat="41.3952662" lon="2.1410697">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6420370487" lat="41.4061122" lon="2.1869165">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6420370489" lat="41.4074806" lon="2.1868751">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6420565897" lat="41.4177643" lon="2.1808318">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6447255385" lat="41.3886736" lon="2.1321673">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6488391786" lat="41.4145512" lon="2.1465867">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6531983249" lat="41.3986103" lon="2.1730776">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6554618085" lat="41.4014830" lon="2.1875659">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6588787543" lat="41.3827888" lon="2.1795126">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6646072994" lat="41.3757975" lon="2.1219597">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6652601272" lat="41.3731828" lon="2.1658527">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Font"/>
+    <tag k="name:ca" v="Font"/>
+  </node>
+  <node id="6660906250" lat="41.3657433" lon="2.1276323">
+    <tag k="access" v="customers"/>
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6660906258" lat="41.3654965" lon="2.1278261">
+    <tag k="access" v="customers"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="6680687874" lat="41.3801415" lon="2.1390966">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6680687875" lat="41.3858117" lon="2.1877180">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6721878912" lat="41.3947524" lon="2.1126465">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6775522750" lat="41.3890227" lon="2.1134114">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6836794591" lat="41.3707381" lon="2.1557692">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6853010561" lat="41.3590921" lon="2.1412570">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6853233888" lat="41.4098759" lon="2.1529369">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6853885786" lat="41.3899247" lon="2.1621651">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6853917287" lat="41.3887825" lon="2.1612318">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="6853917298" lat="41.3880378" lon="2.1619569">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="6874896285" lat="41.3762086" lon="2.1430664">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name:pl" v="Woda Pitna"/>
+  </node>
+  <node id="6917993537" lat="41.3926681" lon="2.1586482">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6936121093" lat="41.3693865" lon="2.1275377">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6971098385" lat="41.4163115" lon="2.1723082">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6971156186" lat="41.4144391" lon="2.1703865">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="6976223385" lat="41.4034015" lon="2.1822765">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7015166612" lat="41.3657538" lon="2.1262677">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7021373385" lat="41.3687901" lon="2.1393889">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7021454885" lat="41.3714490" lon="2.1404932">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="7090417085" lat="41.4120329" lon="2.1431687">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7090417086" lat="41.4112350" lon="2.1439751">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7093571255" lat="41.4074498" lon="2.1424706">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7108679587" lat="41.4029855" lon="2.1168266">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7108860487" lat="41.3934228" lon="2.1217686">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7108867886" lat="41.3919860" lon="2.1231879">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7117539395" lat="41.3990518" lon="2.1215869">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="7135305287" lat="41.3735394" lon="2.1562911">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Fuente para beber agua potable"/>
+  </node>
+  <node id="7158174858" lat="41.3748289" lon="2.1582489">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Fuente para beber agua potable"/>
+  </node>
+  <node id="7184997085" lat="41.3830231" lon="2.1251793">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7195505946" lat="41.3741171" lon="2.1474801">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7292491386" lat="41.4137595" lon="2.1612392">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7474292485" lat="41.3850015" lon="2.1550490">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7525236986" lat="41.4127146" lon="2.1832921">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7530009209" lat="41.4071652" lon="2.1900672">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7547335831" lat="41.4183974" lon="2.1997281">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="7547338593" lat="41.4158694" lon="2.1963687">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7547402920" lat="41.4092065" lon="2.1876100">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7550777386" lat="41.4037103" lon="2.1664025">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7550777485" lat="41.4044988" lon="2.1675024">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7550795185" lat="41.4063806" lon="2.1598959">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="drinking"/>
+  </node>
+  <node id="7550813985" lat="41.4074149" lon="2.1583500">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7550912685" lat="41.4026132" lon="2.1766812">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7565182585" lat="41.4177596" lon="2.1695273">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7565199485" lat="41.4154493" lon="2.1697436">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7574480385" lat="41.4015535" lon="2.1719744">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7574486085" lat="41.4000867" lon="2.1698491">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7574504785" lat="41.3966836" lon="2.1630848">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7574531085" lat="41.4046082" lon="2.1688672">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7597612585" lat="41.3651262" lon="2.1387028">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7597623485" lat="41.3665821" lon="2.1406055">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7597623685" lat="41.3674493" lon="2.1410490">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7597643585" lat="41.3730441" lon="2.1432651">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7770088892" lat="41.3690984" lon="2.1620298">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="7772781396" lat="41.3973659" lon="2.1698415">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7772899120" lat="41.4007803" lon="2.1719804">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7772960188" lat="41.4020434" lon="2.1787656">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="7836469162" lat="41.3665757" lon="2.1319541">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836477972" lat="41.3639482" lon="2.1285164">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836477973" lat="41.3642456" lon="2.1284854">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836544199" lat="41.3655432" lon="2.1312659">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836559008" lat="41.3648310" lon="2.1314099">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836565555" lat="41.3675302" lon="2.1312612">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7836566464" lat="41.3615304" lon="2.1298136">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365888" lat="41.3649594" lon="2.1193843">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365889" lat="41.3605338" lon="2.1280190">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365890" lat="41.3649659" lon="2.1183313">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365893" lat="41.3645910" lon="2.1278782">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365894" lat="41.3653182" lon="2.1244150">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365895" lat="41.3680239" lon="2.1266908">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365896" lat="41.3661348" lon="2.1195224">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365899" lat="41.3653784" lon="2.1214925">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365900" lat="41.3605385" lon="2.1265737">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7845365901" lat="41.3672469" lon="2.1223158">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7878708082" lat="41.3631147" lon="2.1305546">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7878708083" lat="41.3626191" lon="2.1311956">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7920430491" lat="41.3620428" lon="2.1236108">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7920430492" lat="41.3623428" lon="2.1234929">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7920430493" lat="41.3632812" lon="2.1228897">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7920450661" lat="41.3655996" lon="2.1250515">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="7943103918" lat="41.3638241" lon="2.1283513">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="8035019188" lat="41.4017008" lon="2.1941621">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8064785185" lat="41.3913785" lon="2.2016469">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8146625961" lat="41.4175834" lon="2.1498601">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8146675223" lat="41.4136587" lon="2.1468233">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Pi"/>
+    <tag k="name:ca" v="Pi"/>
+  </node>
+  <node id="8146683117" lat="41.4179046" lon="2.1489194">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8148305217" lat="41.4067267" lon="2.1971422">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8168118331" lat="41.4054396" lon="2.1676954">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8169752117" lat="41.4016318" lon="2.1777381">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8169858717" lat="41.4004344" lon="2.1623363">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8169875117" lat="41.3991574" lon="2.1606617">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="8177452097" lat="41.3683810" lon="2.1421144">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8221618718" lat="41.3562510" lon="2.1408862">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8221651517" lat="41.3595291" lon="2.1432933">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8221718917" lat="41.3636124" lon="2.1401979">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8221719219" lat="41.3643750" lon="2.1412582">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8223936918" lat="41.4183849" lon="2.1471454">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8319011551" lat="41.3929085" lon="2.1300656">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8346410870" lat="41.4041686" lon="2.1559569">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8380984245" lat="41.4181964" lon="2.1472267">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8390139117" lat="41.3973582" lon="2.1241564">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8391162343" lat="41.3790433" lon="2.1329266">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8425997104" lat="41.3837050" lon="2.1595991">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8450318532" lat="41.4012496" lon="2.1583913">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="8482304117" lat="41.3870574" lon="2.1759667">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8514372339" lat="41.3815423" lon="2.1701051">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+  </node>
+  <node id="8519988017" lat="41.4044942" lon="2.1730200">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8562672206" lat="41.3761706" lon="2.1609949">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8562672207" lat="41.3729329" lon="2.1633706">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8614654362" lat="41.3704030" lon="2.1469938">
+    <tag k="addr:street" v="Montfar"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Font"/>
+    <tag k="name:ca" v="Font"/>
+  </node>
+  <node id="8697074902" lat="41.3693213" lon="2.1561827">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8697195033" lat="41.3677140" lon="2.1578229">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Font del Gat"/>
+    <tag k="name:ca" v="Font del Gat"/>
+    <tag k="wikidata" v="Q8961960"/>
+    <tag k="wikipedia" v="ca:Font del Gat"/>
+  </node>
+  <node id="8846026518" lat="41.3649547" lon="2.1150097">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8846042717" lat="41.3663976" lon="2.1131222">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="8985095817" lat="41.3754331" lon="2.1175970">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9122047521" lat="41.4157786" lon="2.1353659">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9122068919" lat="41.4157559" lon="2.1369297">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9131410417" lat="41.3983095" lon="2.1813747">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9137923318" lat="41.3906374" lon="2.1415756">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9137956917" lat="41.3884321" lon="2.1401597">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9139561718" lat="41.3580551" lon="2.1212051">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9187394591" lat="41.3804116" lon="2.1887663">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9210223967" lat="41.3924967" lon="2.1878456">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9232369198" lat="41.3784489" lon="2.1610446">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9232380133" lat="41.3748044" lon="2.1398799">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9232408587" lat="41.3725992" lon="2.1410771">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9232416507" lat="41.3729064" lon="2.1353163">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9267305217" lat="41.4160983" lon="2.1593783">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9291257904" lat="41.3673620" lon="2.1288762">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9292813687" lat="41.3698172" lon="2.1356934">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9308039817" lat="41.3842376" lon="2.1225407">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9308046417" lat="41.3831211" lon="2.1222890">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9313202253" lat="41.4133819" lon="2.1857965">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9336740225" lat="41.3715605" lon="2.1470549">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9358609558" lat="41.4136376" lon="2.1861816">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9448721358" lat="41.3667699" lon="2.1132018">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9480575717" lat="41.3965062" lon="2.1835134">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9480603217" lat="41.3874102" lon="2.1794904">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9491731119" lat="41.3809160" lon="2.1934337">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9498214219" lat="41.4079233" lon="2.2010617">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9498214317" lat="41.4076381" lon="2.2003562">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9498222117" lat="41.4076769" lon="2.2013988">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9502372420" lat="41.4168167" lon="2.1884950">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9502379520" lat="41.4129989" lon="2.1919816">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9515915917" lat="41.3794783" lon="2.1915217">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9538583764" lat="41.3740442" lon="2.1371956">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9543841613" lat="41.3754035" lon="2.1145696">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Ajuntament de l'Hospitalet de Llobregat"/>
+  </node>
+  <node id="9554532748" lat="41.4022949" lon="2.1815185">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9554548517" lat="41.4048481" lon="2.1820191">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9570510859" lat="41.4087679" lon="2.1921945">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/WdDdeCw.jpg"/>
+  </node>
+  <node id="9572678853" lat="41.3785279" lon="2.1478830">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="description" v="Bordillo de hormigón que puede dificultar el acceso a personas con sillas de ruedas."/>
+    <tag k="man_made" v="water_tap"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9575164570" lat="41.3769789" lon="2.1634309">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9580085317" lat="41.4138794" lon="2.2015464">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9580090417" lat="41.4131257" lon="2.2005071">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9580112717" lat="41.4122407" lon="2.1995949">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9580112817" lat="41.4113732" lon="2.1984508">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9585597417" lat="41.4053618" lon="2.2012344">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9585597418" lat="41.4061049" lon="2.2022229">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9585732917" lat="41.4017043" lon="2.1990868">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9591762817" lat="41.3892999" lon="2.1300379">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9591830817" lat="41.3919737" lon="2.1405737">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9596955617" lat="41.3990915" lon="2.1399984">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9596993717" lat="41.4057452" lon="2.1359350">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9597004018" lat="41.4055490" lon="2.1390925">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9597025817" lat="41.4058527" lon="2.1502151">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9603800117" lat="41.3780400" lon="2.1219151">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9605135517" lat="41.4164292" lon="2.1829756">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9605170617" lat="41.4121420" lon="2.1883758">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9655608617" lat="41.4026147" lon="2.1745111">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9681909017" lat="41.3996457" lon="2.1527474">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9682003517" lat="41.4049073" lon="2.1464485">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9682011717" lat="41.4056999" lon="2.1482338">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9702291117" lat="41.3960214" lon="2.1584664">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9702294017" lat="41.3957186" lon="2.1592371">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9702318517" lat="41.3905218" lon="2.1583074">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9702606877" lat="41.3976651" lon="2.1582225">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9713207917" lat="41.3824297" lon="2.1907552">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/W58OQ6Z.jpg"/>
+  </node>
+  <node id="9719906817" lat="41.3909100" lon="2.1559465">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9719925317" lat="41.3895084" lon="2.1534909">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9757607817" lat="41.3630040" lon="2.1593178">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9757642518" lat="41.3630332" lon="2.1598929">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9757662717" lat="41.3620477" lon="2.1601726">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9757695917" lat="41.3618675" lon="2.1593473">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9757748917" lat="41.3617851" lon="2.1585027">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9758968117" lat="41.3891028" lon="2.1728922">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/zvTptPr.jpg"/>
+  </node>
+  <node id="9758990017" lat="41.3890399" lon="2.1677430">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9759080717" lat="41.3939501" lon="2.1732242">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9759117417" lat="41.4007163" lon="2.1826563">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9768777020" lat="41.4157736" lon="2.2003968">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9774416017" lat="41.3999906" lon="2.1787676">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9774429017" lat="41.4009100" lon="2.1800694">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9787471017" lat="41.3863042" lon="2.1630469">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9787566317" lat="41.3988081" lon="2.1991157">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9794324418" lat="41.3924412" lon="2.1400843">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9794328417" lat="41.3927926" lon="2.1410129">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9794373717" lat="41.3987132" lon="2.1455877">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9794379419" lat="41.3992068" lon="2.1491026">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9819167218" lat="41.3889862" lon="2.1906868">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9823634017" lat="41.3847632" lon="2.1485226">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9823634118" lat="41.3832388" lon="2.1463404">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9846875617" lat="41.3951394" lon="2.1479564">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9852691618" lat="41.4087558" lon="2.1789046">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9853507317" lat="41.3883481" lon="2.1459655">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9865541575" lat="41.3829315" lon="2.1623124">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9866167563" lat="41.3769539" lon="2.1543828">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9866224408" lat="41.3773485" lon="2.1590894">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9866253310" lat="41.3856629" lon="2.1809148">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9866517959" lat="41.4042364" lon="2.1721396">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9866686527" lat="41.3813257" lon="2.1682293">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="operator" v="Font del Carme"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9868026133" lat="41.3858491" lon="2.1858133">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="operational_status" v="closed"/>
+    <tag k="operator" v="Font Wallace"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9869646321" lat="41.4137859" lon="2.1878518">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9870994625" lat="41.3592431" lon="2.1179716">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9871149518" lat="41.4135830" lon="2.1951585">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9872065317" lat="41.3753634" lon="2.1327279">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9874514575" lat="41.3554220" lon="2.1141380">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9875884618" lat="41.3808608" lon="2.1293462">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9875884818" lat="41.3801381" lon="2.1256567">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9905111917" lat="41.4131315" lon="2.1848659">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9912839418" lat="41.3608408" lon="2.1207110">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9912851217" lat="41.3593238" lon="2.1231584">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9913855717" lat="41.4001728" lon="2.1576384">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9917212051" lat="41.4180316" lon="2.1904276">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9929807619" lat="41.4146189" lon="2.1996657">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9935101018" lat="41.3734168" lon="2.1314033">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9935139518" lat="41.3737068" lon="2.1356944">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9935189618" lat="41.3723987" lon="2.1383437">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9935189919" lat="41.3726710" lon="2.1390777">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9949681817" lat="41.4119015" lon="2.1529858">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9961146075" lat="41.3691984" lon="2.1266568">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Aigua"/>
+  </node>
+  <node id="9961290305" lat="41.3713439" lon="2.1510514">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="name" v="Aigua potable"/>
+    <tag k="name:ca" v="Aigua potable"/>
+  </node>
+  <node id="9981202517" lat="41.3773876" lon="2.1588466">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9982963236" lat="41.4106311" lon="2.1359608">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9983009419" lat="41.4102399" lon="2.1406816">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9983040817" lat="41.4089833" lon="2.1442607">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9984691918" lat="41.3991482" lon="2.1652418">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9984706719" lat="41.3992161" lon="2.1628700">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9984783619" lat="41.3884430" lon="2.1507649">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9984804920" lat="41.3892147" lon="2.1507415">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9984922217" lat="41.3865177" lon="2.1513897">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
+  </node>
+  <node id="9990976718" lat="41.4133390" lon="2.1646804">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9991010917" lat="41.4100917" lon="2.1678554">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="9995507368" lat="41.4019999" lon="2.1797319">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+  </node>
+  <node id="10013041227" lat="41.3758777" lon="2.1424730">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10015281118" lat="41.3678421" lon="2.1579729">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10023575917" lat="41.3907737" lon="2.1540950">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10023593617" lat="41.3880367" lon="2.1576053">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10041414319" lat="41.3877208" lon="2.1350686">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10046389392" lat="41.3743878" lon="2.1394746">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10118957118" lat="41.4007336" lon="2.1902382">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10121330818" lat="41.3647550" lon="2.1641893">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10137416418" lat="41.3598399" lon="2.1447307">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10166871118" lat="41.3730358" lon="2.1598979">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10196541742" lat="41.3856465" lon="2.1789106">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image" v="https://i.imgur.com/lFMD534.jpg"/>
+    <tag k="operational_status" v="closed"/>
+  </node>
+  <node id="10221736755" lat="41.3867365" lon="2.1896134">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10228056717" lat="41.3924956" lon="2.1550233">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10262118409" lat="41.3904853" lon="2.1933740">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10277390710" lat="41.4118314" lon="2.1662573">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10277457209" lat="41.4042565" lon="2.1632510">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10297999510" lat="41.4139953" lon="2.1921078">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10308231609" lat="41.3813236" lon="2.1865103">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10308280409" lat="41.3790789" lon="2.1770157">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10554168510" lat="41.3606007" lon="2.1327700">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10554174709" lat="41.3608079" lon="2.1334483">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10561603409" lat="41.3859637" lon="2.1564921">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10572296624" lat="41.3661404" lon="2.1453327">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="10600119166" lat="41.3558007" lon="2.1169405">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="drinking_water" v="yes"/>
+  </node>
+  <node id="10613741884" lat="41.3774759" lon="2.1894698">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="image" v="https://i.imgur.com/T3QCHJx.jpg"/>
+  </node>
+
+</osm>

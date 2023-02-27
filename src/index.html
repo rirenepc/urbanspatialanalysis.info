@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spatial Analysis</title>
+    <link href="./styles.css" rel="stylesheet" type="text/css" />
+    <!--Load the AJAX API-->
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
+  </head>
+  <body>
+    <div id="MainTitle">
+      <h1 class="text-3xl font-bold underline">Urban Spatial Analysis</h1>
+      <div class="ball"></div>
+    </div>
+    <div class="container">
+      <form>
+        <label>
+          <input type="radio" name="radio" value="google" />
+          <span>GOOGLE MAPS</span>
+        </label>
+        <label>
+          <input type="radio" name="radio" value="osm" checked />
+          <span>OSM</span>
+        </label>
+      </form>
+    </div>
+
+    <div id="wrapper-body">
+      <div class="vertical-menu">
+        <nav>
+          <ul>
+            <li class="menu-item active" id="park">
+              <a href="#">Parques</a>
+            </li>
+            <li class="menu-item" id="store">
+              <a href="#">Mercados</a>
+            </li>
+            <li class="menu-item" id="library">
+              <a href="#">Bibliotecas</a>
+            </li>
+            <li class="menu-item" id="primary_school">
+              <a href="#">Educación</a>
+            </li>
+            <li class="menu-item" id="hospital">
+              <a href="#">Hospitales</a>
+            </li>
+            <li class="menu-item" id="museum">
+              <a href="#">Museos</a>
+            </li>
+            <li class="menu-item" id="gym">
+              <a href="#">Gimnasios</a>
+            </li>
+
+            <li class="menu-item" id="cycling">
+              <a href="#">Carriles bici</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="wrapper-maps">
+        <div class="city-searcher">
+          <input
+            type="text"
+            placeholder="Insert the first City..."
+            name="city1"
+            id="city1"
+          />
+
+          <div id="map1"></div>
+        </div>
+        <div class="city-searcher">
+          <input
+            type="text"
+            placeholder="Insert a second City..."
+            name="city2"
+            id="city2"
+          />
+
+          <div id="map2"></div>
+        </div>
+      </div>
+    </div>
+    <div id="chart_services"></div>
+    <!--Div that will hold the pie chart-->
+    <script>
+      let facility;
+      let selectedMapProvider = "osm";
+    </script>
+    <script type="module" src="./chartservices.js"></script>
+    <script type="module" src="./main.js"></script>
+    <script type="module" src="./main2.js"></script>
+    <script type="module" src="./selectProvider.js"></script>
+    <script type="module" src="./menulistener.js"></script>
+
+    <footer>
+      <p>IPC - 2022-2023</p>
+      <p>
+        Trabajo Final de Máster en Sistemas de Información Geográfica.
+        UPC-Talent School
+      </p>
+    </footer>
+  </body>
+</html>

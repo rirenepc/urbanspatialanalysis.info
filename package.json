@@ -1,0 +1,32 @@
+{
+  "name": "01_tfm",
+  "version": "1.0.0",
+  "description": "",
+  "source": ["./src/index.html","./src/main.js","./src/main2.js","./src/selectProvider.js","./src/main2.js"],
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "prebuild": "rm -rf dist",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.14.3",
+    "@turf/buffer": "^6.5.0",
+    "@turf/collect": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "axios": "^1.3.2",
+    "json5": "^2.2.3",
+    "msgpackr": "^1.8.3",
+    "popmotion": "^11.0.3",
+    "sum": "^0.1.4"
+  },
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.2.7"
+  }
+}
